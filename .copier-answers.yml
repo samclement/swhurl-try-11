@@ -1,0 +1,7 @@
+# Written by Copier from samclement/swhurl-app-template-typescript; `copier update` reads it. Do not edit.
+_commit: v0.1.4-5-gea294aa
+_src_path: https://github.com/samclement/swhurl-app-template-typescript.git
+app_name: swhurl-try-11
+database: none
+description: 'throwaway: team platform T2 caller (reports), delete me'
+kind: web
